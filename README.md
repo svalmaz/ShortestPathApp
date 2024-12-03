@@ -19,7 +19,10 @@
    - Реализацию алгоритма Дейкстры для нахождения кратчайшего пути.
 3. **Main** — точка входа, которая запускает приложение.
 
-
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
 ### Пример матрицы смежности
 |  | 0 | 1 | 2 | 3 | 4 |
 | --- | --- | --- | --- | --- |
