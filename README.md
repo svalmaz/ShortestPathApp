@@ -73,7 +73,7 @@ array<int>^ dijkstra(int start, int end) {
     return path;
 }
 
-
+```
 ### Пример матрицы смежности
 |   |   |   |   |   |   |
 | - | - | - | - | - | - |
