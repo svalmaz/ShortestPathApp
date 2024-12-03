@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ShortestPathApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE32DBE4-61EB-4C46-9FDF-CD4D9A7C90A6}|ShortestPathApp\\ShortestPathApp.vcxproj|C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ShortestPathApp\\ShortestPathApp\\MainForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EE32DBE4-61EB-4C46-9FDF-CD4D9A7C90A6}|ShortestPathApp\\ShortestPathApp.vcxproj|solutionrelative:ShortestPathApp\\MainForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE32DBE4-61EB-4C46-9FDF-CD4D9A7C90A6}|ShortestPathApp\\ShortestPathApp.vcxproj|C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ShortestPathApp\\ShortestPathApp\\Graph.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EE32DBE4-61EB-4C46-9FDF-CD4D9A7C90A6}|ShortestPathApp\\ShortestPathApp.vcxproj|solutionrelative:ShortestPathApp\\Graph.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE32DBE4-61EB-4C46-9FDF-CD4D9A7C90A6}|ShortestPathApp\\ShortestPathApp.vcxproj|C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ShortestPathApp\\ShortestPathApp\\Graph.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EE32DBE4-61EB-4C46-9FDF-CD4D9A7C90A6}|ShortestPathApp\\ShortestPathApp.vcxproj|solutionrelative:ShortestPathApp\\Graph.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE32DBE4-61EB-4C46-9FDF-CD4D9A7C90A6}|ShortestPathApp\\ShortestPathApp.vcxproj|C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ShortestPathApp\\ShortestPathApp\\MainForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{EE32DBE4-61EB-4C46-9FDF-CD4D9A7C90A6}|ShortestPathApp\\ShortestPathApp.vcxproj|solutionrelative:ShortestPathApp\\MainForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE32DBE4-61EB-4C46-9FDF-CD4D9A7C90A6}|ShortestPathApp\\ShortestPathApp.vcxproj|C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ShortestPathApp\\ShortestPathApp\\MainForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EE32DBE4-61EB-4C46-9FDF-CD4D9A7C90A6}|ShortestPathApp\\ShortestPathApp.vcxproj|solutionrelative:ShortestPathApp\\MainForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE32DBE4-61EB-4C46-9FDF-CD4D9A7C90A6}|ShortestPathApp\\ShortestPathApp.vcxproj|C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ShortestPathApp\\ShortestPathApp\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EE32DBE4-61EB-4C46-9FDF-CD4D9A7C90A6}|ShortestPathApp\\ShortestPathApp.vcxproj|solutionrelative:ShortestPathApp\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ce0010b1-93a1-33bb-8d9c-bcc1bf6c4873}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Graph.cpp",
+              "DocumentMoniker": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ShortestPathApp\\ShortestPathApp\\Graph.cpp",
+              "RelativeDocumentMoniker": "ShortestPathApp\\Graph.cpp",
+              "ToolTip": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ShortestPathApp\\ShortestPathApp\\Graph.cpp",
+              "RelativeToolTip": "ShortestPathApp\\Graph.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-03T11:17:56.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Graph.h",
+              "DocumentMoniker": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ShortestPathApp\\ShortestPathApp\\Graph.h",
+              "RelativeDocumentMoniker": "ShortestPathApp\\Graph.h",
+              "ToolTip": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ShortestPathApp\\ShortestPathApp\\Graph.h",
+              "RelativeToolTip": "ShortestPathApp\\Graph.h",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-03T09:52:14.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.h [Design]",
+              "DocumentMoniker": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ShortestPathApp\\ShortestPathApp\\MainForm.h",
+              "RelativeDocumentMoniker": "ShortestPathApp\\MainForm.h",
+              "ToolTip": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ShortestPathApp\\ShortestPathApp\\MainForm.h [Design]",
+              "RelativeToolTip": "ShortestPathApp\\MainForm.h [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-03T09:05:47.608Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ShortestPathApp\\ShortestPathApp\\main.cpp",
+              "RelativeDocumentMoniker": "ShortestPathApp\\main.cpp",
+              "ToolTip": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ShortestPathApp\\ShortestPathApp\\main.cpp",
+              "RelativeToolTip": "ShortestPathApp\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-03T08:53:28.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cpp",
+              "DocumentMoniker": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ShortestPathApp\\ShortestPathApp\\MainForm.cpp",
+              "RelativeDocumentMoniker": "ShortestPathApp\\MainForm.cpp",
+              "ToolTip": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ShortestPathApp\\ShortestPathApp\\MainForm.cpp",
+              "RelativeToolTip": "ShortestPathApp\\MainForm.cpp",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-03T08:52:37.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.h",
+              "DocumentMoniker": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ShortestPathApp\\ShortestPathApp\\MainForm.h",
+              "RelativeDocumentMoniker": "ShortestPathApp\\MainForm.h",
+              "ToolTip": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ShortestPathApp\\ShortestPathApp\\MainForm.h",
+              "RelativeToolTip": "ShortestPathApp\\MainForm.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-03T08:52:31.182Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
