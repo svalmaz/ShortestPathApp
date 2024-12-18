@@ -122,7 +122,7 @@ array<int>^ dijkstra(int start, int end) {
   - Для интеграции C++ с .NET Framework и работы с Windows Forms.
 
 ### Необходимые компоненты:
-- **Windows Forms**:
+- **Windows Forms **:
   - Для создания графического интерфейса, позволяющего пользователю взаимодействовать с программой.
 
 
